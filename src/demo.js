@@ -1,8 +1,3 @@
-import {my_awesome_func} from './custom-module.js'; // named import
-import {another_var} from './another-module.js'
-
-console.log(`another_var = ${another_var}`);
-
 let message = 'Hello';  // the old javascript uses 'var'
 
 /*
